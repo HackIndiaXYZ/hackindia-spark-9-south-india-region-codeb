@@ -304,11 +304,6 @@ Request → Router → Model A (fails/timeout)
 
 ---
 
-## 📄 License
-
-This project uses components from [LiteLLM](https://github.com/BerriAI/litellm) (MIT License). See `LICENSE_LITELLM` for details.
-
----
 
 ## 👥 Team CodeB — South India Region
 
